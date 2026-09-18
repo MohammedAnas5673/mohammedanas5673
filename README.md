@@ -1,25 +1,23 @@
 <p align="center">
   <img src="assets/header.svg" width="100%" alt="Mohammed Anas Header" />
 </p><p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/MohammedAnas5673">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Mohammed%20Anas%20%F0%9F%91%8B;MCA%20Student%20%26%20Software%20Developer%20%F0%9F%8E%93;Full-Stack%20Web%20Developer%20%F0%9F%92%BB;AI%20%26%20Machine%20Learning%20Enthusiast%20%F0%9F%A4%96;Building%20Practical%20Software%20Solutions%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
   </a>
 </p><p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammedanas5673/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
-  </a>  <a href="YOUR_INSTAGRAM_URL" target="_blank">
+  </a>  <a href="https://www.instagram.com/jst._anas" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
-  </a>  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
-  </a>  <a href="mailto:YOUR_EMAIL@gmail.com">
+   </a>  <a href="mailto:mohammedanas5673@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>  <a href="YOUR_RESUME_URL" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
-  </a>  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  </a>  <a href="https://github.com/mohammedanas5673" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
   </a>
 </p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mohammedanas5673&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
 </p>---
 
 <h2 align="center">🔴 About Me</h2><p align="center">
@@ -125,11 +123,11 @@ A web application for comparing product prices and information across different 
 
 <h2 align="center">📬 Let's Connect</h2><p align="center">
   <i>Interested in software development, AI, web applications, or building practical projects? Let's connect.</i>
-</p><p align="center">  <a href="YOUR_LINKEDIN_URL" target="_blank">
+</p><p align="center">  <a href="https://www.linkedin.com/in/mohammedanas5673/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
-  </a>  <a href="YOUR_INSTAGRAM_URL" target="_blank">
+  </a>  <a href="https://www.instagram.com/jst._anas" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
-  </a>  <a href="mailto:YOUR_EMAIL@gmail.com">
+  </a>  <a href="mailto:mohammedanas5673@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a></p><p align="center">
   <b>💡 Build. Learn. Improve. Repeat.</b>
